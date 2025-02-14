@@ -29,3 +29,6 @@ This Gauge has been already registered
 * Issue is only observed after startup
 * Message varies (different metrics are reported)
 
+
+Related issue: https://github.com/micrometer-metrics/micrometer/issues/5757
+
