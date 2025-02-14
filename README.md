@@ -1,4 +1,4 @@
-# Sample project to highlight logging issue after startup
+# Sample project to highlight issue after startup
 
 Metrics are working as expected, however after starting the application a warning is logged:
 ```
